@@ -1,0 +1,37 @@
+{
+  "name": "mangotheme",
+  "displayName": "mangoTheme",
+  "description": "manguito's theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MangoTheme Light",
+        "uiTheme": "vs",
+        "path": "./themes/MangoTheme-light-color-theme.json"
+      },
+      {
+        "label": "MangoTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MangoTheme-color-theme.json"
+      }
+
+    ],
+    "iconThemes": [
+      {
+        "id": "mango-icon-theme",
+        "label": "Manguito's File Icons",
+        "path": "./file_icons/mango-icons.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "@material-design-icons/svg": "^0.14.13"
+  }
+}
