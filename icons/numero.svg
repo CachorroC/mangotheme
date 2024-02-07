@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   stroke-linejoin="round"
+   stroke-miterlimit="1.414"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="numero.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="45.234992"
+     inkscape:cx="13.308281"
+     inkscape:cy="12.401903"
+     inkscape:window-width="2520"
+     inkscape:window-height="1600"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     d="M10 4H4c-1.11 0-2 .89-2 2v12c0 1.097.903 2 2 2h16c1.097 0 2-.903 2-2V8a2 2 0 00-2-2h-8l-2-2z"
+     fill="#b3e5fc"
+     fill-rule="nonzero"
+     id="path2" />
+  <path
+     d="m 20.9,14.545 c 0,2.397933 -1.952067,4.35 -4.35,4.35 -2.397936,0 -4.35,-1.952067 -4.35,-4.35 0,-2.397936 1.952064,-4.35 4.35,-4.35 2.397933,0 4.35,1.952064 4.35,4.35 m -4.35,0.54375 h 2.175 v -1.0875 H 16.55 V 12.37 l -2.175,2.175 2.175,2.175 z"
+     opacity="0.9"
+     fill="#b3e5fc"
+     id="path4"
+     style="opacity:0.9;stroke-width:0.33884" />
+  <path
+     d="m 20.91,14.55 c 0,2.40345 -1.95655,4.36 -4.36,4.36 -2.40345,0 -4.36,-1.95655 -4.36,-4.36 0,-2.40345 1.95655,-4.36 4.36,-4.36 2.40345,0 4.36,1.95655 4.36,4.36 m 1.09,0 C 22,11.5416 19.5584,9.1 16.55,9.1 c -3.0084,0 -5.45,2.4416 -5.45,5.45 0,3.0084 2.4416,5.45 5.45,5.45 3.0084,0 5.45,-2.4416 5.45,-5.45 z m -5.45,0.545 h 2.18 v -1.09 H 16.55 V 12.37 l -2.18,2.18 2.18,2.18 z"
+     fill="#039be5"
+     id="path6"
+     style="stroke-width:0.592" />
+</svg>
